@@ -1,16 +1,145 @@
-## Hi there 👋
+<div align="center">
+<!--<p align="center">
+  <img src="banner.png" alt="DevOps Banner" width="100%">
+</p>!-->
+# Hi 👋 I'm Jeevan c
 
-<!--
-**jeevanc64/jeevanc64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Cloud Technology Enthusiast | AWS | Docker | Linux | Python | DevOps
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+Technology+Enthusiast;Aspiring+DevOps+Engineer;AWS+%7C+Docker+%7C+Linux;Python+%7C+Flask+Developer;Building+Cloud+Projects+🚀" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+Name: Jeevan c
+Role: Cloud & DevOps Enthusiast
+
+Currently Learning:
+  - AWS Cloud
+  - Docker
+  - Linux Administration
+  - Python
+  - Flask
+  - CI/CD Fundamentals
+
+Goal:
+  Become a Cloud & DevOps Engineer
+```
+
+### 🌐 DevOps Inspiration
+
+I am passionate about Cloud Computing, DevOps, Automation, and modern software delivery practices.
+
+🔗 DevOps Consulting Reference:
+
+https://www.testingxperts.com/services/devops-consulting/
+
+---
+
+# 🛠️ Tech Stack
+
+### ☁️ Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 🐳 DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,bash" />
+</p>
+
+### 🐧 Operating Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+</p>
+
+### 💻 Programming & Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,vscode" />
+</p>
+
+---
+
+# 🚀 Current Learning Roadmap
+
+```text
+Linux Administration    ████████████████ 90%
+Docker                  ██████████████░░ 85%
+Git & GitHub            ████████████░░░░ 75%
+AWS Cloud               ██████████░░░░░░ 65%
+Flask                   ████████████░░░░ 75%
+
+```
+
+---
+
+# 📂 Featured Projects
+
+## 🐳 Docker Nginx Project
+
+- Containerized Nginx Web Server
+- Docker Image Creation
+- Port Mapping & Container Management
+
+## 🌐 Flask Docker Application
+
+- Python Flask Web App
+- HTML & CSS Integration
+- Dockerized Deployment
+
+## 🐧 Linux Practice Lab
+
+- Linux Commands
+- User Management
+- File Permissions
+- Process Monitoring
+
+---
+
+# 📚 Currently Exploring
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Linux-System_Admin-yellow?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Python-Programming-green?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Flask-Web_App-black?style=for-the-badge&logo=flask"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/jeevan-c-a1b7b9382">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/jeevanc64">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💡 DevOps Mindset
+
+### Learn → Build → Automate → Deploy → Repeat 🚀
+
+</div>
