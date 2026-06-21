@@ -2,7 +2,7 @@
 <!--<p align="center">
   <img src="banner.png" alt="DevOps Banner" width="100%">
 </p>!-->
-# Hi 👋 I'm Jeevan c
+ Hi 👋 I'm Jeevan c
 
 ### ☁️ Cloud Technology Enthusiast | AWS | Docker | Linux | Python | DevOps
 
